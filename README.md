@@ -1,8 +1,8 @@
-# HellowWorld
+# HelloWorld
 
 一个简单的 C 语言示例程序，运行后输出：
 
-`Hellow World!`
+`Hello World!`
 
 ## 编译
 
